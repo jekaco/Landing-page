@@ -22,3 +22,21 @@
   justify-content: center;
   align-items: center;
 }
+
+/* random information section */
+.information {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.random-information {
+  display: flex;
+  gap: 10px;
+}
+
+.illustration-subtext {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
