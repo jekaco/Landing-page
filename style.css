@@ -47,3 +47,9 @@
   flex-direction: column;
   align-items: center;
 }
+
+/* sign up section */
+.sign-up {
+  display: flex;
+  justify-content: center;
+}
