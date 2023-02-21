@@ -203,3 +203,7 @@ button, .su-box {
   color: #f9faf8;
   font-size: 13px;
 }
+
+.bold {
+  font-weight: bold;
+}
